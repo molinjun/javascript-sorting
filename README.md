@@ -2,18 +2,18 @@
 一直以来，都没有系统去总结排序算法，导致经常会对某些概念和思路很模糊。本系列文章，我将系统总结排序算法中的一些思路和要点，以便后续学习。 
 
 ## 目录
-- [ ] 1、 [算法特性及大O记法 Big O notation](1.big_O_nation/README.md)  
-- [ ] 2、 [冒泡排序 Bubble sort](2.BubbleSort/README.md)  
-- [ ] 3、 [选择排序 Selection sort](3.SelectionSort/README.md)  
-- [ ] 4、 [插入排序 Insertion sort](4.InsertionSort/README.md)  
-- [ ] 5、 [希尔排序 Shell sort](5.ShellSort/README.md)  
-- [ ] 6、 [归并排序 Merge sort](6.MergeSort/README.md)  
-- [ ] 7、 [堆排序 Heap sort](7.HeapSort/README.md)  
-- [ ] 8、 [快速排序 Quick sort](8.QuickSort/README.md)  
-- [ ] 9、 [计数排序 Counting sort](9.CountingSort/README.md)  
-- [ ] 10、 [基数排序 Radix sort](10.RadixSort/README.md)  
-- [ ] 11、 [桶排序 Bucket sort](11.BucketSort/README.md)  
-- [ ] 12、 [排序算法比较与总结](12.Summary/README.md)  
+- [ ] 1、 [算法特性及大O记法 Big O notation](1.big_O_nation/)  
+- [ ] 2、 [冒泡排序 Bubble sort](2.BubbleSort/)  
+- [ ] 3、 [选择排序 Selection sort](3.SelectionSort/)  
+- [ ] 4、 [插入排序 Insertion sort](4.InsertionSort/)  
+- [ ] 5、 [希尔排序 Shell sort](5.ShellSort/)  
+- [ ] 6、 [归并排序 Merge sort](6.MergeSort/)  
+- [ ] 7、 [堆排序 Heap sort](7.HeapSort/)  
+- [ ] 8、 [快速排序 Quick sort](8.QuickSort/)  
+- [ ] 9、 [计数排序 Counting sort](9.CountingSort/)  
+- [ ] 10、 [基数排序 Radix sort](10.RadixSort/)  
+- [ ] 11、 [桶排序 Bucket sort](11.BucketSort/)  
+- [ ] 12、 [排序算法比较与总结](12.Summary/)  
 
 ## 约定与申明
 - 本系列所有算法的实现都是基于javascript。
