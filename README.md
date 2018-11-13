@@ -2,7 +2,7 @@
 一直以来，都没有系统去总结排序算法，导致经常会对某些概念和思路很模糊。本系列文章，我将系统总结排序算法中的一些思路和要点，以便后续学习。 
 
 ## 目录
-- [ ] 1、 [算法特性及大O记法 Big O notation](1.big_O_nation/)  
+- [x] 1、 [算法特性及大O记法 Big O notation](1.big_O_nation/)  
 - [ ] 2、 [冒泡排序 Bubble sort](2.BubbleSort/)  
 - [ ] 3、 [选择排序 Selection sort](3.SelectionSort/)  
 - [ ] 4、 [插入排序 Insertion sort](4.InsertionSort/)  
