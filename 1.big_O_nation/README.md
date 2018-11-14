@@ -1,4 +1,9 @@
 # 算法特性及大O记法 
+
+> 本系列在[Node小栈](https://github.com/gedennis/node-tribe-blog#%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95)下有拷贝，以便大家提issue指正。本篇文章提issue， [请戳这](https://github.com/gedennis/node-tribe-blog/issues/7)  
+> 本系列在[Node小栈](https://github.com/gedennis/node-tribe-blog#%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95)下有拷贝，以便大家提issue指正。本篇文章提issue， [请戳这](https://github.com/gedennis/node-tribe-blog/issues/7)  
+> 本系列在[Node小栈](https://github.com/gedennis/node-tribe-blog#%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95)下有拷贝，以便大家提issue指正。本篇文章提issue， [请戳这](https://github.com/gedennis/node-tribe-blog/issues/7)  
+
 ## 排序算法
 排序算法(Sorting algorithms)是什么？  [Wikipedia](https://en.wikipedia.org/wiki/Sorting_algorithm) 如是说:
 > In computer science, a sorting algorithm is an algorithm that puts elements of a list in a certain order.
