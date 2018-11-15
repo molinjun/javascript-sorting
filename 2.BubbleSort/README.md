@@ -21,7 +21,7 @@
 关于代码，README中代码只有实现算法的函数，具体运行的代码，请查看该目录下的文件。
 
 ### 初始冒泡
-代码如下, 看[bubble_sort_1.js](./bubble_sort_1.js)。
+代码如下, 看[bubble_sort_1.js](./bubble_sort_1.js)。
 ```
 const bubbleSort = (array) => {
     // 不修改原数组
@@ -55,7 +55,7 @@ const bubbleSort = (array) => {
 仔细复盘上面的流程发现: 如果数组正序，比较一轮数组之后，后面还会傻傻地重复进行比较。而这其实是没有必要的。**只要在某一轮比较中，没有发生元素互换，就可以确认数组已经有序了**。
 
 ### 改进的冒泡
-代码如下, 看[bubble_sort_2.js](./bubble_sort_2.js)。
+代码如下, 看[bubble_sort_2.js](./bubble_sort_2.js)。
 ```
 const bubbleSort = (array) => {
     // 不修改原数组
@@ -85,7 +85,7 @@ const bubbleSort = (array) => {
 咋一看，貌似是最终解了。但复盘之后，发现每轮已经排序的元素，还会重复去比较。所以还可以小优化一下。
 
 ### 冒泡再修改
-代码如下, 看[bubble_sort_3.js](./bubble_sort_3.js)。
+代码如下, 看[bubble_sort_3.js](./bubble_sort_3.js)。
 ```
 const bubbleSort = (array) => {
     // 不修改原数组
