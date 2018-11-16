@@ -4,7 +4,7 @@
 ## 目录
 - [x] 1、 [算法特性及大O记法 Big O notation](1.big_O_nation/)  
 - [x] 2、 [冒泡排序 Bubble sort](2.BubbleSort/)  
-- [ ] 3、 [选择排序 Selection sort](3.SelectionSort/)  
+- [x] 3、 [选择排序 Selection sort](3.SelectionSort/)  
 - [ ] 4、 [插入排序 Insertion sort](4.InsertionSort/)  
 - [ ] 5、 [希尔排序 Shell sort](5.ShellSort/)  
 - [ ] 6、 [归并排序 Merge sort](6.MergeSort/)  
