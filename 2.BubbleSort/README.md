@@ -22,7 +22,7 @@
 
 ### 初始冒泡
 代码如下, 看[bubble_sort_1.js](./bubble_sort_1.js)。
-```
+```javascript
 const bubbleSort = (array) => {
     // 不修改原数组
     const originValues = array.slice(); 
@@ -56,7 +56,7 @@ const bubbleSort = (array) => {
 
 ### 改进的冒泡
 代码如下, 看[bubble_sort_2.js](./bubble_sort_2.js)。
-```
+```javascript
 const bubbleSort = (array) => {
     // 不修改原数组
     const originValues = array.slice(); 
@@ -86,7 +86,7 @@ const bubbleSort = (array) => {
 
 ### 冒泡再修改
 代码如下, 看[bubble_sort_3.js](./bubble_sort_3.js)。
-```
+```javascript
 const bubbleSort = (array) => {
     // 不修改原数组
     const originValues = array.slice(); 
